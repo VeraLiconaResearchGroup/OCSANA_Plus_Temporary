@@ -7,7 +7,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cytoscape.api.version>3.6.0</cytoscape.api.version>
         <osgi.api.version>4.3.0</osgi.api.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>1.10.19</mockito.version>
         <slf4j.version>1.7.25</slf4j.version>
         <maven.compiler.version>3.3</maven.compiler.version>
